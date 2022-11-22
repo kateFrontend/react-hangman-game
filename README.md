@@ -32,6 +32,12 @@ yarn install
 yarn start
 ```
 
+### Install styled-components npm or yarn
+```
+npm install --save styled-components
+yarn add styled-components
+```
+
 ---
 
 ## ⚡ Exercises
