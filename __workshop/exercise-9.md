@@ -4,4 +4,4 @@ Write a function called `handleReset` that will _handle the reset_ of the game. 
 
 Make sure to get a new word and reset all of the app data to its initial state, except the `started` flag; that should stay `true` so that the user can immediately start a new game.
 
-![exercise 9](../__lecture/assets/ex_9.gif)
+![exercise 9](../assets/ex_9.gif)

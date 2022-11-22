@@ -22,4 +22,4 @@ const handleGuess = (ltr) => {
 };
 ```
 
-![exercise 8](../__lecture/assets/ex_8.gif)
+![exercise 8](../assets/ex_8.gif)

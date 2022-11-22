@@ -23,4 +23,4 @@ const handleStart = () => {
 
 Once this is wired up, we should be able to toggle the game:
 
-![new game](../__lecture/assets/ex_2.gif)
+![new game](../assets/ex_2.gif)

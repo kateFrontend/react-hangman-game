@@ -6,4 +6,4 @@ There is also a data file `data/letters.json` that contains an array of the lett
 
 You should have this when you're done.
 
-![exercise 5](../__lecture/assets/ex_5.png)
+![exercise 5](../assets/ex_5.png)

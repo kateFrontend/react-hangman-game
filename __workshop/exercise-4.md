@@ -21,4 +21,4 @@ _Note that the CSS is already done and might provide some hints as to the functi
 
 Try using the React dev tools to change the value of state in the `revealed` array. IT should update in the UI as well. (_see gif below._)
 
-![exercise 4](../__lecture/assets/ex_4.gif)
+![exercise 4](../assets/ex_4.gif)

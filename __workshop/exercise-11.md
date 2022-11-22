@@ -6,4 +6,4 @@ Look over that component and figure out how to implement it.
 
 Don't forget to remove the `alert()`!
 
-![exercise 10](../__lecture/assets/ex_11.gif)
+![exercise 10](../assets/ex_11.gif)

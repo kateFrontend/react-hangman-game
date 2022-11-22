@@ -20,11 +20,11 @@ const [word, setWord] = useState({ str: "" });
 6. Modify `getNewWord` to set the state of `word.str` with the random word.
 7. Use the React dev tools to validate that a new word is put in state everytime you click on the start button.
 
-![devtools](../__lecture/assets/ex_3.1.gif)
+![devtools](../assets/ex_3.1.gif)
 
 This isn't quite the functionality we want. We need to toggle the "Start" button into a "Pause" button once the game is started, and not change the word, once there is a word in state.
 
 Implement this functionality:
 
-8. Only call `getNewWord` if there is no word in `word.str`.
-9. Modify the button label to be dynamic. It should be either "Start", "Pause" or "Continue" depending on the status of the game.
+1. Only call `getNewWord` if there is no word in `word.str`.
+2. Modify the button label to be dynamic. It should be either "Start", "Pause" or "Continue" depending on the status of the game.
