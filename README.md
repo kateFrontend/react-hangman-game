@@ -1,6 +1,7 @@
-# Hangman
+# Hangman - Bootcamp study project
 
 This project is minimally completed - exercises 1-7 done.
+Will finish it on day )))
 
 ## 🦊 Pre-lecture
 
