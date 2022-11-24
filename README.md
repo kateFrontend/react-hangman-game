@@ -1,7 +1,9 @@
-# Hangman - Bootcamp study project
+# Hangman 
+Bootcamp study project to learn how to use useState react hook.
 
 This project is finished for 75%.
-Will finish for 100% it one day )))
+
+
 
 ## 🦊 Pre-lecture
 
